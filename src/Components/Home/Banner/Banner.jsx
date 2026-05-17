@@ -1,4 +1,3 @@
-import React from "react";
 import bannerImg from '../../../assets/Book.png';
 
 const Banner = () => {
@@ -10,7 +9,7 @@ const Banner = () => {
           className="max-w-sm "
         />
         <div>
-          <h1 className="text-5xl font-bold">
+          <h1 className="text-5xl font-bold ">
             Books to freshen up <br />your bookshelf
           </h1>
           <button className="btn btn-success text-bold text-lg text-white mt-10">
